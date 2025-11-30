@@ -30,8 +30,8 @@ NS: 去掉了行与行、字符与字符之间的空隙（纯好玩，请注意�
 LNS: 包括L与NS的特性，即有小写字符，没有空隙。<br><br>
 
 
-This font comes in four versions.
-Regular: Standard (what I believe this font should look like)
+This font comes in four versions.<br>
+Regular: Standard (what I believe this font should look like)<br>
 L: Lowercase characters feature distinct glyphs from uppercase letters<br>
 NS: Removes spacing between lines and characters (purely for amusement; note this variant lacks legibility and should not be used for everyday purposes)<br>
 LNS: Combines L and NS characteristics, featuring lowercase glyphs with no inter-character spacing.<br>
